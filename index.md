@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- 
-- List
+- I like the idea of learning new tools that could help us in our CS 180 classes and above
+- I like that it is taught by RA's because they have a fresh understanding of the college computer science experience.
 
 1. Numbered
 2. List
