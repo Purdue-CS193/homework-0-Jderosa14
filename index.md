@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+# Justin DeRosa's First CS193 Homework
+
+- I like the idea of learning new tools that could help us in our CS 180 classes and above
+- I like that it is taught by RA's because they have a fresh understanding of the college computer science experience.
+
+  
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -10,11 +16,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Justin DeRosa's First CS193 Homework
-
-- I like the idea of learning new tools that could help us in our CS 180 classes and above
-- I like that it is taught by RA's because they have a fresh understanding of the college computer science experience.
 
 1. Numbered
 2. List
